@@ -32,8 +32,8 @@
 , "devDependencies" : 
   {
     "jasmine-node" : "1.x.x"
-  , "webinos-utilities"  : "git://github.com/webinos/webinos-utilities.git"
-  , "webinos-api-applauncher": "git://github.com/webinos/webinos-api-applauncher"
+  , "webinos-utilities"  : "git://github.com/heiiko/webinos-utilities.git"
+  , "webinos-api-applauncher": "git://github.com/heiiko/webinos-api-applauncher"
   }  
 , "bundleDependencies":
   [
